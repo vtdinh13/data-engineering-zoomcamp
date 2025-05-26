@@ -1,0 +1,35 @@
+# Folders
+google-cloud-sdk
+keys
+docker
+google-cloud-sdk-*
+ny_taxi_postgres_data
+.terraform
+kestra
+data_pgadmin
+database_ny_taxi
+google
+logs
+airflow_local_env
+week1-basics-and-setup
+week2-workflow-orchestration
+week3-data-warehouse
+data-engineering-zoomcamp
+
+# OS 
+.DS_Store
+
+# Files
+creds.json
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+tfplan_test
+Dockerfile_initial_run
+output.csv
+output.csv.gz
+output.parquet
+yellow_tripdata_2021-01.parquet
+
+# environment variables
+.env
